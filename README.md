@@ -8,6 +8,12 @@ Location: Kyiv, Ukraine<br />
 Link: http://yglf.com.ua/<br />
 Discount Code: YGLFLovesReactVienna (15%)
 
+#### ReactSphere (2018-04-15 - 2018-04-17) 
+
+Location: Kraków, Poland<br />
+Link: https://react.sphere.it/<br />
+Discount Code: sphereit-2018-meetup-com-10perc (10%)
+
 #### React Fest (2018-03-09) 
 
 Location: London, United Kingdom<br />
